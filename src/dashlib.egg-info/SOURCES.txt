@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/dashlib/__init__.py
+src/dashlib.egg-info/PKG-INFO
+src/dashlib.egg-info/SOURCES.txt
+src/dashlib.egg-info/dependency_links.txt
+src/dashlib.egg-info/requires.txt
+src/dashlib.egg-info/top_level.txt

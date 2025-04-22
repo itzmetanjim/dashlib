@@ -1,0 +1,26 @@
+[project]
+name = "dashlib"
+version = "0.2"
+authors = [
+  { name="Tanjim Kamal", email="tanjimkamal1@gmail.com" },
+]
+dependencies = [
+    "requests"
+]
+description = "A library that makes sending requests to the Geometry Dash servers and reading the responses easier."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Development Status :: 4 - Beta"
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/itzmetanjim/dashlib/"
+Issues = "https://github.com/itzmetanjim/dashlib/issues"
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

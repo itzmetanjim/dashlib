@@ -1,3 +1,20 @@
+Metadata-Version: 2.4
+Name: dashlib
+Version: 0.2
+Summary: A library that makes sending requests to the Geometry Dash servers and reading the responses easier.
+Author-email: Tanjim Kamal <tanjimkamal1@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/itzmetanjim/dashlib/
+Project-URL: Issues, https://github.com/itzmetanjim/dashlib/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: license-file
+
 # dashlib
 A Python library that makes sending requests to the Geometry Dash servers and reading the responses easier. Special thanks to WylieMaster and everybody else contributed to [the GDDocs](https://wyliemaster.github.io/gddocs/#/) as it was the only source of information for the endpoints.  
 [Library Documentation](README.md#how-to-use)
