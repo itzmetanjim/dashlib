@@ -23,6 +23,11 @@ A Python library that makes sending requests to the Geometry Dash servers and re
  - [ ] Icon kit class
 
 ## How to use
+ ### Installing
+  Use the following command to install this library-
+  ```bash
+  python -m pip install dashlib
+  ```
  ### Level Downloading
   Use the `downloadLevel()` function to download levels. Example code-
   ```python
@@ -79,8 +84,3 @@ A Python library that makes sending requests to the Geometry Dash servers and re
 ## Credits and resources
  Special thanks to the people who maintain and have contributed to [the GDDocs](https://wyliemaster.github.io/gddocs/#/). This was pretty much the only source of information.\
  Also thanks to Colon for making [GDBrowser](https://gdbrowser.com/). I did not want to open geometry dash every time I wanted to check something. (and it also would have lagged my potato laptop)
-
-
-
-
-
