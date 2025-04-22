@@ -3,24 +3,24 @@ A Python library that makes sending requests to the Geometry Dash servers and re
 [Library Documentation](README.md#how-to-use)
 
 ## Implemented features
- [x] Level downloading.\
- [x] Level uploading. \
- [x] Level searching. \
- [x] `GDLevel` class (because the kind of level objects the server returns are unreadable)
- [x] User info fetching (using account ID).\
- [x] User class `GDUser`
+ - [x] Level downloading.\
+ - [x] Level uploading. \
+ - [x] Level searching. \
+ - [x] `GDLevel` class (because the kind of level objects the server returns are unreadable)
+ - [x] User info fetching (using account ID).\
+ - [x] User class `GDUser`
 
 ## Features to implement
- [] Liking/disliking\
- [] User searching\
- [] Getting users by Player ID\
- [] Leaderboard fetching\
- [] Level Leaderboard fetching\
- [] Commenting\
- [] Posting\
- [] User comment history fetching\
- [] Icon image generation\
- [] Icon kit class
+ - [ ] Liking/disliking\
+ - [ ] User searching\
+ - [ ] Getting users by Player ID\
+ - [ ] Leaderboard fetching\
+ - [ ] Level Leaderboard fetching\
+ - [ ] Commenting\
+ - [ ] Posting\
+ - [ ] User comment history fetching\
+ - [ ] Icon image generation\
+ - [ ] Icon kit class
 
 ## How to use
  ### Level Downloading
